@@ -36,3 +36,8 @@ dotnet ef database update
 ```sh
 dotnet run
 ```
+
+Адрес Swagger UI:
+```sh
+/swagger/index.html
+```
